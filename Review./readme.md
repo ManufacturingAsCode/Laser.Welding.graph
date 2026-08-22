@@ -15,4 +15,4 @@
 - [I was WRONG about Handheld Laser Welding](https://youtu.be/_zdRzl48eks)
 - [Ultimate Metal Test: xTool MetalFab vs. 10+ Different Materials](https://youtu.be/Lt6xGyenrbQ)
 - [I Finally Got an xTool Laser Welder… and It’s INSANE 😳](https://youtu.be/5Lbfy-zFpdE)
-- [I use the Laser Welder blindfolded to prove a point... We are COOKED!]
+- [I use the Laser Welder blindfolded to prove a point... We are COOKED!](https://youtu.be/SZ6DASP-yN4)
