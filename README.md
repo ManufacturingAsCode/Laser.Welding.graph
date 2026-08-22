@@ -2,7 +2,7 @@
 # Review:
 ## Critical
 - [Busting Fake Laser Welder Reviews](https://youtu.be/MM2Uym2WPzw)
-- [Is Laser Welding Fake? We Put It Up Against MIG and TIG](
+- [Is Laser Welding Fake? We Put It Up Against MIG and TIG](https://youtu.be/AhoroUvWiTw)
 
 ## Neutral
 - [Laser Welding](https://youtu.be/TkPQqryr1FM)
