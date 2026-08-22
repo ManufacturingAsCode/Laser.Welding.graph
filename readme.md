@@ -15,3 +15,5 @@ Handheld laser welding is great for sheet metal and will not Warp as badly! But 
 Laser is better than MIG welding for single pass on thin metal.
 
 But TIG welding is still competitive with Laser due to Arc control, and deep heat penetration.
+
+As an example, from an engineering standpoint: laser is not something you would use to repair the frame of a vehicle, or weld a tow hitch. But it is perfectly suited for body work and repairing Rust by fabricating body panels.
