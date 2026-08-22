@@ -1,6 +1,6 @@
 # Laser.Welding.graph
 
-**Conclusion: laser welding is really good for thin sheet metal, and low strength applications! it is suboptimal for deep deep root high strength structural welding - in which case stick SMAW is more appropriate.
+**Conclusion: laser welding is really good for thin sheet metal, and low strength applications! it is suboptimal for deep root high strength structural welding - in which case stick SMAW is more appropriate.
 
 Advantages: Laser welding is a very precisely controlled process! It is akin to a software app with Hardware. Software controls the laser and wire feed output precisely for different metals and desired weld thicknesses.
 
@@ -9,3 +9,7 @@ The problem is Heat delivery and conduction. we take for granted that a electric
 
 # Use Case:
 Handheld laser welding is great for sheet metal and will not Warp as badly! But ineffective for structural steel like I-Beams or thick tubing or plate steel.
+
+Laser is better than MIG welding for single pass on thin metal.
+
+But TIG welding is still competitive with Laser due to Arc control, and deep heat penetration.
