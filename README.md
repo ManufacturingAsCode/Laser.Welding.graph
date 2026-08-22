@@ -7,3 +7,4 @@
 - [This 800W Laser Welder Might Change Small-Shop Fabrication - xTool MetalFab](https://youtu.be/wa-8FrRfwSQ)
 - [I was WRONG about Handheld Laser Welding](https://youtu.be/_zdRzl48eks)
 - [Ultimate Metal Test: xTool MetalFab vs. 10+ Different Materials](https://youtu.be/Lt6xGyenrbQ)
+- [I Finally Got an xTool Laser Welder… and It’s INSANE 😳](
