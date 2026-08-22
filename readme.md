@@ -19,3 +19,7 @@ But TIG welding is still competitive with Laser due to Arc control, and deep hea
 As an example, from an engineering standpoint: laser is not something you would use to repair the frame of a vehicle, or weld a tow hitch. But it is perfectly suited for body work and repairing Rust by fabricating body panels.
 
 @SYLVESTERSCUSTOMS had a good [Experiment & Review](https://youtu.be/AhoroUvWiTw)
+
+# Further Thoughts
+## "Smart Welder"
+as for the programmable aspect and software control of the laser welding process? this can be replicated for other processes using computer vision and sensors especially infrared temperature sensors you just make a smarter welder that can use feedback to self calibrate during a weld! it would be more cost-effective than the current market price for laser welding machines. That is their biggest advantage and can enhance other welding processes too. they are trying to be the Tesla Motors of welder companies.
