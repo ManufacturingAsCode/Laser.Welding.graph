@@ -1,7 +1,14 @@
 # Laser.Welding.graph
+# Review:
+## Critical
 - [Busting Fake Laser Welder Reviews](https://youtu.be/MM2Uym2WPzw)
+- [Is Laser Welding Fake? We Put It Up Against MIG and TIG](
+
+## Neutral
 - [Laser Welding](https://youtu.be/TkPQqryr1FM)
 @AlecSteele
+
+## Positive
 - [The Laser Gun that Welds, Cuts and Removes Rust!!!](https://youtu.be/f319mJl-Qt0)
 - [DIY Laser Welding: Pro Results at Home: Xlaserlab X1 Pro](https://youtu.be/lOrQDVxLGIA)
 - [This 800W Laser Welder Might Change Small-Shop Fabrication - xTool MetalFab](https://youtu.be/wa-8FrRfwSQ)
