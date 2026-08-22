@@ -4,3 +4,5 @@
 @AlecSteele
 - [The Laser Gun that Welds, Cuts and Removes Rust!!!](https://youtu.be/f319mJl-Qt0)
 - [DIY Laser Welding: Pro Results at Home: Xlaserlab X1 Pro](https://youtu.be/lOrQDVxLGIA)
+- [This 800W Laser Welder Might Change Small-Shop Fabrication - xTool MetalFab](https://youtu.be/wa-8FrRfwSQ)
+- [I was WRONG about Handheld Laser Welding](https://youtu.be/_zdRzl48eks)
